@@ -5,6 +5,7 @@ TrendScout is a comprehensive content ideation platform that analyzes real-time 
 Live at: https://rohan-news-ideation.vercel.app/
 
 Sometime it takes time to load.. wait for 1 or 2 min than click on update again 
+or try to run on your local host
 ## 🚀 Features
 
 ### Frontend (React + TypeScript)
