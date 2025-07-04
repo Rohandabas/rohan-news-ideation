@@ -2,6 +2,7 @@
 
 TrendScout is a comprehensive content ideation platform that analyzes real-time Reddit trends to help newsrooms identify story opportunities, generate content ideas, and track social media engagement.
 
+Live at: https://rohan-news-ideation.vercel.app/
 ## 🚀 Features
 
 ### Frontend (React + TypeScript)
